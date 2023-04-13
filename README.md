@@ -1,6 +1,6 @@
 # LLaMa with persona
 
-![](./illustration.png)
+<img src="https://github.com/ngxson/llama-persona/raw/master/illustration.png" width="300" height="300" />
 
 **LLaMa-persona** adds a new level of fun and interactivity to large language models by enabling them to take on the persona of an imaginary character. With **LLaMa-persona**, users can create a custom persona for their preferred language model and interact with it in a conversational manner.
 
